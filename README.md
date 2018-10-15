@@ -1,2 +1,6 @@
 # Hackathons
-Code and information pertaining to hackathons attended at university
+List of hackathons attended at university.
+
+HackMidlands 2018 - Attendee
+
+GreatUnihack 2018 - Volunteer
